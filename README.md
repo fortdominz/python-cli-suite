@@ -14,7 +14,8 @@ Welcome! This repository contains a curated collection of Python mini-projects d
 | **Tip Calculator (CLI)**   | Basic command-line applications simulating banking functionality and everyday calculators |
 | **Guessing Games, Blackjack, Hangman** | A suite of interactive terminal games showcasing randomization, control flow, and clean logic |
 | **Higher/Lower Comparison Game** | Mimics the popular “higher or lower” challenge using Python dictionaries and custom modules |
-| **Etch-A-Sketch (Turtle Drawing App)** | Use arrow keys to draw with Python's turtle module — clear and control the screen with keybindings |
+| **Etch-A-Sketch (Turtle Drawing App)** | Use arrow keys to draw with Python's turtle module, clear and control the screen with keybindings |
+| **Pong Arcade (Turtle Game)** | A recreation of the Classic Pong game built with Python’s turtle module, featuring two-player controls, real-time score tracking, and collision-based ball movement |
 
 And many more! See the full file list for additional CLI challenges and logic-based practice tasks.
 
