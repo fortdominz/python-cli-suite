@@ -73,10 +73,10 @@ These projects are more than just exercises; they will serve as steppingstones i
 
 ## 🤝 Connect With Me
 
-**Dominion Eze** 
-📧 Email: fortdominz10@gmail.com
-🌐 GitHub: [github.com/fortdominz](https://github.com/fortdominz)
-📍 Based in: [United States]
+**Dominion Eze**:
+  📧 Email: fortdominz10@gmail.com
+  🌐 GitHub: [github.com/fortdominz](https://github.com/fortdominz)
+  📍 Based in: [United States]
 
 ---
 
