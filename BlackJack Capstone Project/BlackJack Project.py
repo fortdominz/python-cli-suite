@@ -1,5 +1,5 @@
 import random
-from blackjack_capstone_art import logo
+from blackjack_art import logo
 
 Jack = 10
 Queen = 10
