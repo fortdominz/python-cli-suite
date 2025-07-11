@@ -10,6 +10,7 @@ Welcome to my personal Python project portfolio! This repository will house a co
 | Project                          | Description |
 |----------------------------------|-------------|
 | **Password Manager (Tkinter GUI)** | A graphical password manager app that generates strong passwords, stores website/email/password combinations in a local JSON file, and allows for quick retrieval with a search function. Built using tkinter, json, and pyperclip, with error handling and clipboard support. |
+| **Coffee Machine (CLI Simulation)** | A command-line simulation of a coffee vending machine. Users can order espresso, latte, or cappuccino, and the machine checks if there are enough resources, processes coin input, provides change, and tracks total profit. Emphasizes procedural logic, resource tracking, and user interaction through loops and conditionals. |
 
 
 And more pending upload...
