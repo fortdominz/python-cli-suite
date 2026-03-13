@@ -29,6 +29,13 @@ class Snake:
         neon.showturtle()
         self.squares.append(neon)
 
+    def reset_snake(self):
+        for square in self.squares:
+            square.goto(10000, 10000)
+        self.squares.clear()
+        self.create_snake()
+        self.head = self.squares[0]
+
     def grow(self):
         # Adds a new square to the snake as it eats
         self.add_square(self.squares[-1].position()) # parameter for the position to add as the last square in the list of squares
