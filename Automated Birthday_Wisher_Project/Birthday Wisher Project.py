@@ -3,8 +3,8 @@ import smtplib
 import datetime as dt
 import random
 
-MY_EMAIL = "dominiontestmail@gmail.com"
-PASSWORD = "fvvbbrccbtiibbmb"
+MY_EMAIL = "YOUR_EMAIL"
+PASSWORD = "YOUR_PASSWORD"
 
 right_now = dt.datetime.now()
 current_date = right_now.day
