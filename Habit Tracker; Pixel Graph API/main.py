@@ -2,8 +2,8 @@ import requests
 from datetime import datetime as dt
 
 
-USERNAME = "fortdominz"
-TOKEN = "bfibfbekrfbkervk"
+USERNAME = "YOUR_USERNAME"
+TOKEN = "YOUR_TOKEN"
 GRAPH_ID = "graph1"
 
 # ----------- CREATING PIXEL ACCOUNT
